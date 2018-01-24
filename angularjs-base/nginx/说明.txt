@@ -1,0 +1,2 @@
+nginx -c mynginx.conf
+nginx -s quit -c my.nginx.conf
