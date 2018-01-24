@@ -1,2 +1,2 @@
-nginx -c mynginx.conf
-nginx -s quit -c my.nginx.conf
+sudo nginx -c /home/huhuiyu/Develop/github/DarkKnightPaul/publish/angularjs-base/nginx/my.nginx.conf
+sudo nginx -s quit -c /home/huhuiyu/Develop/github/DarkKnightPaul/publish/angularjs-base/nginx/my.nginx.conf
